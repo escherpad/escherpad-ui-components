@@ -14,7 +14,6 @@ This library is written in TypeScript using angular2. The styling of the compone
 ## Useful Directives
 - [ ] dynamic height
 - [ ] scroll glue
-- [ ] 
 
 ## Advanced Components
 - [ ] escherpad, a component based rich-text editor
